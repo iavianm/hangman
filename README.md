@@ -8,6 +8,8 @@
 ```
 /data/words.txt
 ```
+Запуск программы - откройте командную строку или терминал из папки с игрой
+
 Установите gem bundler
 ```
 gem install bundler
@@ -16,6 +18,6 @@ gem install bundler
 ```
 bundle install
 ```
-Запуск программы - откройте командную строку или терминал из папки с игрой
+Запустите игру
 ```
 $bundle exec ruby main.rb
